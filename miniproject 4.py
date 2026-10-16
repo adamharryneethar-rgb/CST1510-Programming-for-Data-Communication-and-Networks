@@ -2,9 +2,9 @@
 RECORD CHECK  -  my version
 ===========================
 
-Name  :
-Lane  :  AI / Cyber / IT      (delete two)
-Date  :
+Name  :Adam Harry
+Lane  :  AI
+Date  :16/10/2026
 
 Run it:   python template.py
 
